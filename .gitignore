@@ -1,0 +1,3 @@
+*.knimeLock
+.metadata/
+**/internal/
